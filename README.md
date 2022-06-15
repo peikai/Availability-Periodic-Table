@@ -4,6 +4,8 @@ The program periodic_table.py can generate a custom [interactive periodic table]
 
 <script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
 
+DFDF
+
 <script src="https://embed.github.com/view/3d/peikai/Availability-Periodic-Table/periodic_table.html"></script>
 
 ![Availability periodic table](periodic_table.png)
