@@ -1,6 +1,6 @@
 # Availability-Periodic-Table
 
-The program periodic_table.py can generate a custom [interactive periodic table](periodic_table.html) by [element information](Element_information.csv), in which the information of the price, abundance, and isotope stability comes from the CRC handbook[^1].
+The program _periodic_table.py_ can generate a custom [interactive periodic table](periodic_table.html) by [element information](Element_information.csv), in which the information of the price, abundance, and isotope stability comes from the CRC handbook[^1].
 
 ![Availability periodic table](periodic_table.png)
 
