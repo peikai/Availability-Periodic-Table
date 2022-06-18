@@ -30,7 +30,7 @@ TOOLTIPS = [
     ("Availability", "@availability")
 ]
 
-p = figure(title="Periodic Table (omitting LA and AC Series)", width=1520, height=675,
+p = figure(title="Availability Periodic Table (omitting LA and AC Series)", width=1520, height=675,
            x_range=groups, y_range=list(reversed(periods)),
            tools="hover", toolbar_location=None, tooltips=TOOLTIPS)
 
@@ -71,8 +71,8 @@ p.legend.glyph_width = 22
 p.hover.renderers = [r] # only hover element boxes
 
 # set output to static HTML file
-output_file(filename="periodic_table.html", title="Availability of Elements")
+output_file(filename="Availability_periodic_table.html", title="Availability Periodic Table")
 save(p)
 
 # save the results to a file
-export_png(p, filename="periodic_table.png")
+export_png(p, filename="Availability_periodic_table.png")
